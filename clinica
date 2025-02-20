@@ -1,0 +1,26 @@
+[
+    {
+        "enfermedad": "gripe",
+        "cantidad": 2
+    },
+    {
+        "enfermedad": "gastritis",
+        "cantidad": 1
+    },
+    {
+        "enfermedad": "tos",
+        "cantidad": 1
+    },
+    {
+        "enfermedad": "migra\u00f1a",
+        "cantidad": 2
+    },
+    {
+        "enfermedad": "dolor",
+        "cantidad": 3
+    },
+    {
+        "enfermedad": "presion",
+        "cantidad": 1
+    }
+]

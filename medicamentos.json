@@ -1,0 +1,14 @@
+[
+    {
+        "medicamento": "acetaminofen",
+        "cantidad": 7
+    },
+    {
+        "medicamento": "antiacido",
+        "cantidad": 1
+    },
+    {
+        "medicamento": "jarabe",
+        "cantidad": 2
+    }
+]
